@@ -1,6 +1,14 @@
 # Time API
 
-A simple FastAPI application that provides time-related endpoints.
+A modern, lightweight FastAPI application that provides time-related information through RESTful endpoints. This service offers current time retrieval with timezone information, making it useful for applications that need to synchronize time data or display timezone-aware timestamps.
+
+## Features
+
+- Real-time timestamp retrieval
+- Timezone information
+- JSON response format
+- OpenAPI documentation
+- Docker support
 
 ## Setup
 
